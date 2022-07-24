@@ -1,0 +1,24 @@
+2022.07.24 19:21
+    Function name: gen
+    Args: ([['a', 'b', 'c'], ['d', [1, 'D', [34, 'gafds']], 'e', 'f', 'h', False], [1, 2, None]],)
+    Result: <generator object gen at 0x000001B48B0EE340>
+
+2022.07.24 19:21
+    Function name: type_list
+    Args: ([['a', 'b', 'c'], ['d', [1, 'D', [34, 'gafds']], 'e', 'f', 'h', False], [1, 2, None]],)
+    Result: <generator object type_list at 0x000001B48B0EE1F0>
+
+2022.07.24 19:21
+    Function name: type_list
+    Args: (['a', 'b', 'c', 'd', [1, 'D', [34, 'gafds']], 'e', 'f', 'h', False, 1, 2, None],)
+    Result: <generator object type_list at 0x000001B48B0EE1F0>
+
+2022.07.24 19:21
+    Function name: type_list
+    Args: (['a', 'b', 'c', 'd', 1, 'D', [34, 'gafds'], 'e', 'f', 'h', False, 1, 2, None],)
+    Result: <generator object type_list at 0x000001B48B0EE1F0>
+
+2022.07.24 19:21
+    Function name: type_list
+    Args: (['a', 'b', 'c', 'd', 1, 'D', 34, 'gafds', 'e', 'f', 'h', False, 1, 2, None],)
+    Result: <generator object type_list at 0x000001B48B0EE1F0>

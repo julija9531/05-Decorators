@@ -1,0 +1,64 @@
+2022.07.24 19:21
+    Function name: __init__
+    Args: (<__main__.SampleIterator object at 0x000001B48B5BB910>, [['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]])
+    Result: None
+
+2022.07.24 19:21
+    Function name: __iter__
+    Args: (<__main__.SampleIterator object at 0x000001B48B5BB910>,)
+    Result: <__main__.SampleIterator object at 0x000001B48B5BB910>
+
+2022.07.24 19:21
+    Function name: __next__
+    Args: (<__main__.SampleIterator object at 0x000001B48B5BB910>,)
+    Result: a
+
+2022.07.24 19:21
+    Function name: __next__
+    Args: (<__main__.SampleIterator object at 0x000001B48B5BB910>,)
+    Result: b
+
+2022.07.24 19:21
+    Function name: __next__
+    Args: (<__main__.SampleIterator object at 0x000001B48B5BB910>,)
+    Result: c
+
+2022.07.24 19:21
+    Function name: __next__
+    Args: (<__main__.SampleIterator object at 0x000001B48B5BB910>,)
+    Result: d
+
+2022.07.24 19:21
+    Function name: __next__
+    Args: (<__main__.SampleIterator object at 0x000001B48B5BB910>,)
+    Result: e
+
+2022.07.24 19:21
+    Function name: __next__
+    Args: (<__main__.SampleIterator object at 0x000001B48B5BB910>,)
+    Result: f
+
+2022.07.24 19:21
+    Function name: __next__
+    Args: (<__main__.SampleIterator object at 0x000001B48B5BB910>,)
+    Result: h
+
+2022.07.24 19:21
+    Function name: __next__
+    Args: (<__main__.SampleIterator object at 0x000001B48B5BB910>,)
+    Result: False
+
+2022.07.24 19:21
+    Function name: __next__
+    Args: (<__main__.SampleIterator object at 0x000001B48B5BB910>,)
+    Result: 1
+
+2022.07.24 19:21
+    Function name: __next__
+    Args: (<__main__.SampleIterator object at 0x000001B48B5BB910>,)
+    Result: 2
+
+2022.07.24 19:21
+    Function name: __next__
+    Args: (<__main__.SampleIterator object at 0x000001B48B5BB910>,)
+    Result: None
